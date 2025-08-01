@@ -1,5 +1,3 @@
-# Digital-Signature 
-
 # Sistema de Assinatura de Documentos Digitais
 
 Este projeto implementa um sistema de assinatura de documentos digitais utilizando criptografia de chave assimétrica. Os usuários podem registrar-se, gerar chaves públicas e privadas, assinar documentos PDF, verificar assinaturas, e baixar documentos assinados.
